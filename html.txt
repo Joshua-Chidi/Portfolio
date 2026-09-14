@@ -1,0 +1,143 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title> Ngobiri Joshua Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+		<div id="wrapper" class="fade-in">
+
+			<!-- Intro -->
+			<div id="intro">
+				<h1>Ngobiri Joshua<br />
+					PORTFOLIO</h1>
+				<p>
+			
+I am an entry-level Data Analyst with a strong interest in transforming raw data into meaningful insights that support better decision-making.
+
+My skill set includes SQL, Python, Excel, and Power BI, with experience in data cleaning, analysis, visualization, and building interactive dashboards. I enjoy exploring datasets, identifying patterns, and presenting findings in a clear and understandable way.
+
+This portfolio brings together projects that demonstrate my practical application of data analytics concepts and tools. Each project reflects my approach to working with data—from preparing and analyzing raw information to communicating insights through reports and visualizations.
+
+I am continuously developing my technical and analytical skills and looking forward to applying them to real-world business problems.
+<br />
+				</p>
+				<a href="index.html" class="background image">
+					<img src="images/profile.jpg" alt="" style="align-content:center;height:250px;">
+				</a>
+				<ul class="actions">
+					<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+				</ul>
+			</div>
+
+			<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="logo">Ngobiri Joshua</a>
+			</header>
+
+			<!-- Nav -->
+			<nav id="nav">
+				<ul class="links">
+					<li class="active"><a href="index.html">Projects</a></li>
+					<li><a href="https://www.linkedin.com/in/chidiebere-ngobiri-257113405?utm_source=share_via&utm_content=profile&utm_medium=member_android">Resume</a></li>
+					<li><a href="https://medium.com">Medium</a></li>
+				</ul>
+				<ul class="icons">
+					<li><a href="https://www.linkedin.com/in/chidiebere-ngobiri-257113405?utm_source=share_via&utm_content=profile&utm_medium=member_android" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+
+					<li><a href="https://github.com/Joshua-Chidi" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+				</ul>
+			</nav>
+
+			<!-- Main -->
+			<div id="main">
+
+				<!-- Featured Post -->
+				<article class="post featured">
+					<header class="major">
+						<h2><a href="https://github.com/Joshua-Chidi/PowerBI-Project/blob/main/Noordhaven%20Healthcare%20Dataset.pbix">Noordhaven Healthcare.<br /></a></h2>
+					</header>
+					<a href="https://github.com/Joshua-Chidi/PowerBI-Project/blob/main/Noordhaven%20Healthcare%20Dataset.pbix" class="image main"><img src="images/noordhaven.jpg" alt="" /></a>
+					<p>Noordhaven Medical Centre
+An end-to-end healthcare analytics project involving data preparation in Excel, transformation and modeling in Power BI, and the development of DAX-driven interactive dashboards. The report explores patient demographics, clinical patterns, healthcare costs, hospital operations, and patient outcomes.
+Tools: Excel · Power Query · Power BI · DAX
+Skills: Data Cleaning · Data Transformation · Data Modeling · DAX · KPI Development · Data Visualization · Drill-through Reporting
+.</p>
+					<ul class="actions special">
+						<li><a href="https://github.com/Joshua-Chidi/PowerBI-Project/blob/main/Noordhaven%20Healthcare%20Dataset.pbix" class="button large">View Project</a></li>
+					</ul>
+				</article>
+
+					<article>
+						<header>
+							<h2><a href="https://github.com/Joshua-Chidi/Excel-Projects/blob/main/Data_season.xlsx">Agricultural Seasonal Data Analysis<br /></a></h2>
+						</header>
+						<a href="https://github.com/Joshua-Chidi/Excel-Projects/blob/main/Data_season.xlsx" class="image main"><img src="images/seasons.jpg" alt="" /></a>
+						<p>Agricultural Seasonal Data Analysis
+An Excel-based analysis of crop performance across seasons, locations, soil types, irrigation conditions, and environmental factors. The project involved data preparation, derived performance metrics, PivotTables, interactive slicers, conditional formatting, visual analysis, and the development of four analytical dashboards.
+Tools: Excel
+Skills: Data Analysis · Excel Functions · PivotTables · Data Visualization · Dashboard Development · Derived Metrics · Interactive Filtering
+</p>
+						<ul class="actions special">
+							<li><a href="https://github.com/Joshua-Chidi/Excel-Projects/blob/main/Data_season.xlsx" class="button large">View Project</a></li>
+						</ul>
+					</article>
+									</section>
+
+				<!-- Footer -->
+<footer id="footer">
+					
+						<section class="split contact">
+							<section class="alt">
+								<h3>Location</h3>
+								<p><br />
+								Ogun State, NGA 110103</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">+234 813 086 0866</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">jochidiebere150@gmail.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									
+									
+								<li><a href="https://www.linkedin.com/in/chidiebere-ngobiri-257113405?utm_source=share_via&utm_content=profile&utm_medium=member_android"><span class="label">LinkedIn</span></a></li>
+								<li><a href="https://github.com/Joshua-Chidi" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
